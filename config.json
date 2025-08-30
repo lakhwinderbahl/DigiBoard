@@ -1,6 +1,6 @@
 {
-  "pdf_dir": "J:\\\\New folder\\\\notices",
-  "logo_path": "J:\\\\New folder\\\\LOGO\\SPECTRALOGO.png",
+  "pdf_dir": ".\\notices",
+  "logo_path": ".\\LOGO",
   "icon_path": "Icon\\digiboardicon.ico",
   "cycle_interval": 10,
   "background_color": "#FFFFFF",
