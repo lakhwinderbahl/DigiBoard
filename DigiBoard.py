@@ -3,15 +3,15 @@ import sys
 import time
 import threading
 from pathlib import Path
-import random  # for shuffling pages
+import random  
 import json
 import logging
-import fitz  # PyMuPDF
+import fitz  
 try:
-    from PIL import Image, ImageTk  # Pillow is required for image handling with Tkinter
+    from PIL import Image, ImageTk  
 except ImportError as exc:
     raise ImportError(
-        "Pillow (PIL) is required to run this script. Install it via 'pip install pillow'."
+    
     ) from exc
 try:
     import tkinter as tk
